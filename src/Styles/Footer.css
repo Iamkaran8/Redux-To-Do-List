@@ -1,0 +1,11 @@
+footer{
+    position: fixed;
+    bottom: 0px;
+    background:black;
+    padding: 10px;
+    width: 100%;
+    color: white;
+}
+footer h6{
+    font-size: 13px;
+}

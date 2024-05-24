@@ -7,6 +7,18 @@ const initialState = [
         "todo": "Wake Up At morning at 5 O clock",
         "completed": false,
         "userId": 2
+    },
+    {
+        "id": 2,
+        "todo": "Learn react for 1 hour",
+        "completed": false,
+        "userId": 3
+    },
+    {
+        "id": 3,
+        "todo": "Go To Collage",
+        "completed": false,
+        "userId": 4
     }
 
 ]

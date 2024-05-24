@@ -1,5 +1,5 @@
 {
-  "homepage":"https://Iamkaran8.github.io/Redux-To-Do-List",
+  "homepage":"http://Iamkaran8.github.io/Redux-To-Do-List",
   "name": "color-changer",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "num run build",
+    "predeploy": "npm run build",
     "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
