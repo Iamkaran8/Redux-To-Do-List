@@ -2,5 +2,5 @@
 
 <h3>Project screen screenshot</h3>
 
-<a href="https://iamkaran8.github.io/Redux-To-Do-List/"> <img  /> </a>
+<a href="https://iamkaran8.github.io/Redux-To-Do-List/"> <img src="../Todo.png"  /> </a>
 
